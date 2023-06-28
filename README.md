@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ezequiel S. M.</h1>
-<h3 align="center">A game developer from Mexico with an obsession with Pong</h3>
+<h1 align="center">Hi, I'm Ezequiel S. M.</h1>
+<h3 align="center">A game developer from Mexico with an little obsession with Pong</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezequielsegura&label=Profile%20views&color=0e75b6&style=flat" alt="ezequielsegura" /> </p>
 
