@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **Java, C#, Python or C++**
 
-- 📫 How to reach me **SeguraMacedoEzequiel@Gmail.com**
-
 - ⚡ Fun fact **I'm a little obsessed with somethings**
 
 <h3 align="left">Connect with me:</h3>
