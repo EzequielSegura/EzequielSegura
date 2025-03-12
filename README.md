@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezequielsegura&label=Profile%20views&color=0e75b6&style=flat" alt="ezequielsegura" /> </p>
 
-- 🌱 I’m currently learning **any lenguaje where I can dev Pong**
-
-- 💬 Ask me about **Java, C#, Python or C++**
-
-- ⚡ Fun fact **I'm a little obsessed with somethings**
+- 💬 Ask me about **Java
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
