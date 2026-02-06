@@ -25,4 +25,3 @@
 ### 📫 Get in Touch
 
 - 📧 Email: `seguramacedoezequiel@gmail.com`
-- 🐦 Twitter: [@withAfishHat](https://x.com/withAfishHat)
