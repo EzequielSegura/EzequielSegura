@@ -1,27 +1,61 @@
-<h1 align="center">Hi, I'm Ezequiel S. M.</h1>
-<h3 align="center">Java Developer from Mexico ⚙️ | Passionate about clean code, creative projects, and... Pong 🎮</h3>
+<h1 align="center">Hey 👋 I'm Ezequiel</h1>
+<h3 align="center">💻 Fullstack Dev ⚙️</h3>
+
+<p align="center">
+  I like building stuff, keeping code clean, and making things actually work 🚀
+</p>
 
 ---
 
-### 👨‍💻 About Me
+### 🧠 About Me
 
-- 🇲🇽 I'm a developer based in Mexico, currently focused on Java and backend development.
-- 🎯 Always looking to improve my skills and build efficient, well-structured applications.
-- 🕹️ I have an unusual (but totally valid) obsession with **Pong** — I love analyzing, recreating, and reinventing it.
-- 💬 I enjoy discussing software architecture, design patterns, and the simplicity behind great code.
+- 💻 Into fullstack development  
+- ⚙️ I enjoy structuring code so it *makes sense*  
 
 ---
 
-### 🔧 Tech Stack
+### 🛠️ Stuff I Use
 
-- 💻 Languages: Java, JavaScript, HTML, CSS
-- 🧰 Tools & Frameworks: Spring Boot, Git, Maven, REST APIs
-- 🛠️ Databases: MySQL, PostgreSQL, Oracle
-- 🌐 Others: GitHub, IntelliJ, Postman
+#### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,ts,cpp,cs,py" />
+</p>
+
+#### 🧰 Tools & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,git,docker" />
+</p>
+
+#### 🛢️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongo" />
+</p>
+
+#### 🔧 Other Things
+<p>
+  <img src="https://skillicons.dev/icons?i=github,idea,postman,eclipse" />
+</p>
 
 ---
 
+### 📊 GitHub Stuff
 
-### 📫 Get in Touch
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EzequielSegura&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EzequielSegura&theme=tokyonight" />
+</p>
 
-- 📧 Email: `seguramacedoezequiel@gmail.com`
+---
+
+### 🔥 Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+- 📧 **Email:** seguramacedoezequiel@gmail.com  
+- 💼 **LinkedIn:** [ezequielsm2001](https://www.linkedin.com/in/ezequielsm2001/)
