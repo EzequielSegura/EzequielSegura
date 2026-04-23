@@ -9,8 +9,8 @@
 
 ### 🧠 About Me
 
-- 💻 Into fullstack development  
-- ⚙️ I enjoy structuring code so it *makes sense*  
+- 💻 Fullstack development  
+- ⚙️ I enjoy structuring code
 
 ---
 
